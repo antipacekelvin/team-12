@@ -30,6 +30,7 @@ No real names: this repository is public. -->
 | GitHub | Role |
 |---|---|
 
+|@antipacekelvin | seat 3 - protect main |
 ## How we work
 
 <!-- How your team uses Git. For example:
